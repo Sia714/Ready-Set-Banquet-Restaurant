@@ -6,5 +6,5 @@
 
   - Our ambition for making this website is to attract new customers to the website and offer services like online booking and menu. The customer can book a table and browse through the menu online from the comfort of their own homes The customer can see the cuisines we offer and what we offer in the menu. The restaurant offers discount up to 25% when more than four people visit together.
 
-  --> We used many HTML tags like: div, span, anchor, heading, paragraph, image, ul, li, form etc. We also learned how to use id, class, src, pre, input, label, text-align, footer etc.
+  - We used many HTML tags like: div, span, anchor, heading, paragraph, image, ul, li, form etc. We also learned how to use id, class, src, pre, input, label, text-align, footer etc.
 We also used many CSS properties like margin, padding, grid, color, height, width, align, transition, transform, position, font, font- size, font- family ,etc. and the CSS background properties like background- image, background- color, background- attachment, background- position, background- repeat, background- size. We also learned how to use CSS border properties like border- style, border- color and border- radius. We also learned how to apply properties on links such as hover, visited, active.
