@@ -1,5 +1,5 @@
 
-.main{display:grid;grid-template-columns:auto auto;background-image:url(table2.jpg);background-size:cover;}
+.main{display:grid;grid-template-columns:auto auto;background-image:url(/Project/images/table2.jpg);background-size:cover;}
 .main2{background-color:rgb(39, 39, 39);color:white;position:fixed;width:100%;align:center;}     
 .submenu{position:fixed;width:100%;margin-top:62px}
 ul{list-style-type:none;overflow:hidden;background-color:rgb(39, 39, 39);}
